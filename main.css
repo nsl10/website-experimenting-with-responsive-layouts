@@ -1,0 +1,66 @@
+body{
+	background:#998;
+	font-family: arial;
+	margin: 0;
+}
+header{
+	background: black;
+	color: white;
+}
+header h1 {
+	margin: 0;
+	display: inline;
+}
+nav ul {
+	margin: 0;
+	display: inline;
+}
+header nav ul li {
+	display:inline-block;
+	list-style-type: none;
+	margin: 2%;
+	width: 10%;
+}
+header nav ul li a{
+	color: white;
+}
+.profile{
+	margin: 4% 4% 0% 4%;
+	display: inline;
+}
+
+.name{
+	padding: 0px  0px 0px 300px;
+}
+.email{
+	padding: 0px  0px 0px 255px;
+}
+.number{
+	padding: 0px  0px 0px 305px;
+}
+.address{
+	padding:0px  0px 0px 280px;
+}
+.address2{
+	padding: 0px  0px 0px 290px;
+}
+h9 {
+	padding: 0px  0px 0px 50px;
+}
+h10{
+	padding: 0%  0% 0% 12%;
+}
+h11{
+	padding: 0%  0% 0% 14%;
+}
+.resume{
+	margin: 0% 0% 0% 26%;
+
+}
+.greetings{
+	margin: 2% 2% 0% 2%;
+}
+
+p{
+	margin: 0px;
+}

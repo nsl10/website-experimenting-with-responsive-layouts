@@ -1,0 +1,37 @@
+body{
+	background: #840000;
+	font-family: arial;
+	margin: 0;
+	color: black;
+}
+header nav{
+	background: #dc0000;
+	color: white;
+}
+header a{
+	color: white;
+}
+a{
+	color: black;
+}
+p{
+	margin: 0px;
+}
+.profile{
+	margin: 0% 10% 0% 10%;
+	display: inline;
+}
+.darkBG{
+	color: black;
+}
+.comic{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.blackdot{
+	color: black;
+}
+.hide{
+	display: none;
+}

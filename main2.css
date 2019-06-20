@@ -1,0 +1,35 @@
+body{
+	background:#998;
+	font-family: arial;
+	margin: 0;
+}
+header{
+	background: black;
+	color: white;
+}
+header h1 {
+	margin: 0;
+	display: inline;
+}
+nav ul {
+	margin: 0;
+	display: inline;
+}
+header nav ul li {
+	display:inline-block;
+	list-style-type: none;
+	margin: 2%;
+	width: 10%;
+}
+header nav ul li a{
+	color: white;
+}
+.profile{
+	margin: 5% 0% 0% 4%;
+	display: inline;
+}
+
+.introduction{
+	float: left;
+	margin-left: 100px
+}
